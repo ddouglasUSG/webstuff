@@ -1,11 +1,3 @@
 some text here
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-add another line
-=======
-this is an update
->>>>>>> FETCH_HEAD
-=======
-this is an update
->>>>>>> FETCH_HEAD
+here is an update
